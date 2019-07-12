@@ -1,0 +1,7 @@
+{
+  "name": "Mateusz Pająk",
+  "short_name": "Resume",
+  "theme_color": "#00695C",
+  "start_url": "./index.html",
+  "display": "browser"
+}
